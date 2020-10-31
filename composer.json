@@ -1,0 +1,7 @@
+{
+    "require": {
+        "webonyx/graphql-php": "^14.3",
+        "leocavalcante/siler": "^1.7",
+        "diversen/redbean-composer": "^4.3"
+    }
+}
